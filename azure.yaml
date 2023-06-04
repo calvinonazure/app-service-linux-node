@@ -1,6 +1,6 @@
-name: app-service-linux-node-helloworld
+name: app-service-linux-node
 metadata:
-  template: app-service-linux-node-helloworld@0.1
+  template: app-service-linux-node@0.1
 services:
   web:
     project: ./src/web
